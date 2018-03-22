@@ -11,6 +11,7 @@
     "express": "~3.2.4",
     "graphql": "^0.13.1",
     "graphql-tag": "^2.8.0",
+    "prisma": "^1.4.1",
     "react-apollo": "^2.0.4",
     "socket.io": "~0.9.14"
   }
